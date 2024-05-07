@@ -2,8 +2,7 @@
 
 # this is a lab about learning CSS, HTML and Javascript
 
-
-Getting Started
+# Getting Started
 
 python -m venv venv
 source venv/bin/activate
@@ -17,4 +16,4 @@ Then, trying to polish the process:
 2.Git clone
 3.Create app.py, new stuff on vs code, then push them to repository to check how does it wrok
 
-## excalidraw.com
+# excalidraw.com
